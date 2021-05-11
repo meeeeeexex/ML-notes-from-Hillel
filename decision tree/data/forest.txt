@@ -1,0 +1,2 @@
+Acc average:  0.8528000000000003
+Precision average:  0.8429812524077228 
